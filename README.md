@@ -2,7 +2,7 @@
 Available data from the Master's dissertation: 
 "Molecular pairwise relatedness in autopolyploids: a simulation study considering linkage and many loci"
 
-## Suplementary Table
+## SupplementaryTable.pdf
 Each cell represents the highest value of the statistics considering all methods for the given population. Between parentheses, which method gives such highest value. Cells in red, values above 0.90 threshold. Cells in blue, values above 0.80 threshold. 
 
 ### Keys: 
@@ -14,3 +14,6 @@ Each cell represents the highest value of the statistics considering all methods
 - CCC (concordance correlation coefficient):  for fenotypes from Farthing genealogy and genotypes from IACSP955000 genealogy.
 - IC (interval of confidence) of the CCC statistic
 (*)considers multivalent pairing. without (*) considers just bivalent pairing.
+
+## SupplementaryTableFull.csv
+It follows the same keys of SupplementaryTable.pdf but presents the values of all methods (and not just the highest one).
