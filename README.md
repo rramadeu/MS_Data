@@ -2,7 +2,7 @@
 Available data from the Master's dissertation: 
 "Molecular pairwise relatedness in autopolyploids: a simulation study considering linkage and many loci"
 
-## SupplementaryTable.pdf
+## S1.pdf
 Each cell represents the highest value of the statistics considering all methods for the given population. Between parentheses, which method gives such highest value. Cells in red, values above 0.90 threshold. Cells in blue, values above 0.80 threshold. 
 
 ### Keys: 
@@ -15,5 +15,5 @@ Each cell represents the highest value of the statistics considering all methods
 - IC (interval of confidence) of the CCC statistic
 (*)considers multivalent pairing. without (*) considers just bivalent pairing.
 
-## SupplementaryTableFull.csv
+## S2.csv
 It follows the same keys of SupplementaryTable.pdf but presents the values of all methods (and not just the highest one).
